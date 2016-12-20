@@ -1,1 +1,1 @@
-# BengaliStemmer
+# AI_Project_bengali_stemmer
